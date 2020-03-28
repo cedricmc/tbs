@@ -23,6 +23,7 @@ Episodes generally follow a similar format:
 * [TBS(3): Yet Another Live Stack](episodes/3)
 * [TBS(4): BYO Cluster](episodes/4)
 * [TBS(5): Crossplane v0.4.0](episodes/5)
+* [TBS(8): ALL THING GKE](episodes/8)
 
 ## Requesting a Topic
 
